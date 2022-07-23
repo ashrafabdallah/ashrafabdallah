@@ -30,3 +30,21 @@ A “Book” is  online platform to get books.
 - Coil
 <br>
 <p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+<img align="right" src="https://user-images.githubusercontent.com/31374697/167314138-b76c4bfc-a23e-4a76-a5de-52666f95a4a2.jpeg" alt="Food App" style="height: 490px; width:230px;" />
+
+### Food App
+A “Food App ” application lets users looking for meals, manage their favorite meals, discover what would you like to eat and can watch the meal chosen on YouTube.<br />
+
+#### Developed with
+- Kotlin
+- MVVM architecture
+- Android architecture components
+- viewBinding
+- Coroutines
+- Retrofit
+- Repository pattern
+- Android youtube player
+<br>
+
+<p></a> <a href="https://github.com/ashrafabdallah/Food_App" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
