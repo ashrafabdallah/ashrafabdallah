@@ -29,4 +29,4 @@ A “Book” is  online platform to get books.
 - Repository pattern
 - Coil
 <br>
-<p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg" style="height: 65px; width:160px;"/> </a><p>
+<p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
