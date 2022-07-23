@@ -44,6 +44,7 @@ A “Food App ” application lets users looking for meals, manage their favorit
 - Android architecture components
 - viewBinding
 - Coroutines
+- Room DataBase
 - Retrofit
 - Repository pattern
 - Android youtube player
