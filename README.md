@@ -13,3 +13,19 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 <img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
+<img align="right" src="https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg" alt="Books" style="height: 490px; width:230px;" />
+
+### Book App 
+A “Book” is  online platform to get books.
+<br />
+
+#### Developed with
+- Kotlin
+- Jetpack Compose
+- Hilt 
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Coil
+<br>
