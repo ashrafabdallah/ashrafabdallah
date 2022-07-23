@@ -17,7 +17,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 
 ### Book App 
 A “Book” is  online platform to get books.
-<br />
+
 
 #### Developed with
 - Kotlin
