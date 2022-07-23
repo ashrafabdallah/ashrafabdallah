@@ -17,7 +17,7 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 
 ### Book App 
 A “Book” is  online platform to get books.
-
+<br />
 
 #### Developed with
 - Kotlin
@@ -30,7 +30,7 @@ A “Book” is  online platform to get books.
 - Coil
 <br>
 <p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
-<hr>
+   <hr>
 <img align="right" src="https://user-images.githubusercontent.com/31374697/167314138-b76c4bfc-a23e-4a76-a5de-52666f95a4a2.jpeg" alt="Food App" style="height: 490px; width:230px;" />
 
 ### Food App
