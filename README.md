@@ -13,25 +13,24 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 <img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
-<img align="right" src="https://user-images.githubusercontent.com/31374697/167314138-b76c4bfc-a23e-4a76-a5de-52666f95a4a2.jpeg" alt="Food App" style="height: 490px; width:230px;" />
+<img align="right" src="https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg" alt="Book App" style="height: 490px; width:230px;" />
 
-### Food App
-A “Food App ” application lets users looking for meals, manage their favorite meals, discover what would you like to eat and can watch the meal chosen on YouTube.<br />
+### Book App
+A “Book” is  online platform to get books.<br />
 
 #### Developed with
 - Kotlin
-- MVVM architecture
-- Android architecture components
-- viewBinding
+- Jetpack Compose
+- Hilt 
 - Coroutines
-- Room DataBase
+- Clean architecture
 - Retrofit
 - Repository pattern
-- Android youtube player
+- Coil
   <br>
   
 
-<p></a> <a href="https://github.com/ashrafabdallah/Food_App" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
+<p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
    <br/>
   
   <hr>
