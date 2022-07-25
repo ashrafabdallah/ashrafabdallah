@@ -16,7 +16,8 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img align="right" src="https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg" alt="Book App" style="height: 490px; width:230px;" />
 
 ### Book App
-A “Book” is  online platform to get books.<br />
+A “Book” is  online platform to get books.
+<br />
 
 #### Developed with
 - Kotlin
