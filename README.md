@@ -13,9 +13,9 @@ Skills: Android / Flutter / Kotlin / Java / Jetpack / Data structure and Algorit
 <img src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 <img align="right" src="https://media2.giphy.com/media/NLDzulOiZMnPzahkoU/giphy.gif" alt="My Work" width="90px" height="90px">
 </p>
-<img align="right" src="https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg" alt="Book App" style="height: 490px; width:230px;" />
+<img align="right" src="https://user-images.githubusercontent.com/31374697/180599732-d579a199-3fef-4d18-a6b9-5bb99b7c32ff.jpeg" alt="Books" style="height: 490px; width:230px;" />
 
-### Book App
+### Book App 
 A “Book” is  online platform to get books.
 <br />
 
@@ -28,12 +28,9 @@ A “Book” is  online platform to get books.
 - Retrofit
 - Repository pattern
 - Coil
-  <br>
-  
-
+<br>
 <p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
-  
-  <br        />
+   <br/>
   
   <hr>
   
