@@ -72,7 +72,11 @@ A “Food App ” application lets users looking for meals, manage their favorit
 - Retrofit
 - Repository pattern
 - Android youtube player
-<br>
+  
+  <br/>
+  
+  <hr>
+  
 
 <p></a> <a href="https://github.com/ashrafabdallah/Food_App" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
   <hr>
