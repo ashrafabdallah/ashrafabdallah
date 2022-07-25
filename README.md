@@ -33,7 +33,7 @@ A “Book” is  online platform to get books.
 
 <p></a> <a href="https://github.com/ashrafabdallah/BookApp" target="_blank"><img alt="Repository" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.svg" style="height: 65px; width:160px;"/> </a><p>
   
-  <br/>
+  <br        />
   
   <hr>
   
